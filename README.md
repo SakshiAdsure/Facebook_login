@@ -1,2 +1,2 @@
 # Facebook_login
- I created FaceBook LogIn clone by using tailwindCSS
+ Experience the allure of seamless authentication with our visually captivating Facebook login clone, meticulously crafted with Tailwind CSS for a stunningly intuitive interface.
